@@ -4,13 +4,15 @@
 
 Ferramentas de controle de versão :
 
+
 RCS
 Perforce
 CVS
 Source Save
 Bazaar
-Swn
-Mercurial
 Clear Case
+Sw
+Mercurial
 Git
 Visual Studio Team Services
+
