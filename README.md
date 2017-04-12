@@ -7,7 +7,7 @@ Ferramentas de controle de versão :
 Rcv
 Cvs
 Source save
-Svn
+Clear Case
 Mercurial
 GitHub
 BitBucket
