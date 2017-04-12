@@ -4,10 +4,15 @@
 
 Ferramentas de controle de versão :
 
-Rcv
-Cvs
-Source save
-Clear Case
-Mercurial
+
+RCS
 Perforce
-BitBucket
+CVS
+Source Save
+Bazaar
+Clear Case
+Sw
+Mercurial
+Git
+Visual Studio Team Services
+
