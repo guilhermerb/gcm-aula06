@@ -4,10 +4,10 @@
 
 Ferramentas de controle de versão :
 
-RCV
-CVS
-SOURCE SAVE
-SVN
-MERCURIAL
-GITHUB
-BITBUCKET
+Rcv
+Cvs
+Source save
+Svn
+Mercurial
+GitHub
+BitBucket
